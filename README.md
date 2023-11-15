@@ -1,6 +1,4 @@
 # Budget Tracker
-LIVE SITE: https://still-peak-17137.herokuapp.com/
-
 ## Description
 
 This project is an update on an existing budget tracker application to allow for offline access and functionality. The user is able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total will be updated when they're brought back online.
